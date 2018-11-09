@@ -18,3 +18,4 @@ for caso in casos:
     print(caso)
     palavras = caso.split(" ")
     ordenar(palavras)
+#     incompleto
